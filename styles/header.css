@@ -1,0 +1,23 @@
+.header__base {
+    width: 100%;
+    height: 300px;
+
+
+}
+.header__container {
+    border: 3px outset rgb(194, 180, 170);
+    box-shadow: rgb(122, 117, 106);
+
+}
+.header__title {
+    font-size: 3.2rem;
+    text-align: center;
+    font-style: oblique;
+  
+}
+.header__text {
+    font-size: 2.4rem;
+    text-align: center;
+
+}
+
